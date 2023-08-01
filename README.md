@@ -21,4 +21,4 @@ Medinate.com is an online web application that aims to streamline blood donation
 
 ## Demo
 
-Check out a live demonstration of Medinate.com on YouTube: [Demo Video]([https://youtu.be/2C5uKb283Q8])
+Check out a live demonstration of Medinate.com on YouTube: [Demo Video]([https://www.youtube.com/watch?v=2C5uKb283Q8&ab_channel=SargamSah])
